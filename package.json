@@ -1,0 +1,19 @@
+{
+  "name": "remittance",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ganache-cli": "^6.4.3",
+    "openzeppelin-solidity": "^2.2.0",
+    "truffle": "^5.0.15",
+    "truffle-assertions": "^0.8.2",
+    "truffle-hdwallet-provider": "^1.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
